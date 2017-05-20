@@ -62,6 +62,10 @@ nav {
   color: white
 }
 
+a.selected {
+  color: orange;
+}
+
 header {
   text-align: center;
   background: url('../img/concert02_no_text.jpg') no-repeat top center ;
